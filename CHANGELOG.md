@@ -82,7 +82,7 @@ Or to bind an expression to color:
 
 ```ts
 @Component({
-  templateUrl: 'build/pages/about/about.html'
+  templateUrl: 'about.html'
 })
 export class AboutPage {
   barColor: string;
